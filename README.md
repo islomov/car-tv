@@ -9,7 +9,7 @@ A simple SwiftUI iOS app.
 
 ## Running
 
-Open `CarTV.xcodeproj` in Xcode, pick an iPhone simulator, and press **Run** (⌘R).
+Open `CarTV.xcodeproj` in Xcode, pick an iPhone simulator or a connected device, and press **Run** (⌘R). Signing uses automatic provisioning with team `265AV6332H`; change it under Signing & Capabilities if you use a different team.
 
 Or build from the command line:
 
