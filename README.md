@@ -5,7 +5,7 @@ A simple SwiftUI iOS app.
 ## Requirements
 
 - Xcode 16 or later
-- iOS 17.0+
+- iOS 18.6+ (iPhone and iPad only)
 
 ## Running
 
